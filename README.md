@@ -1,0 +1,2 @@
+# slot-mashini
+slot-mashini
